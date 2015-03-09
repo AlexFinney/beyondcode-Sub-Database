@@ -1,3 +1,10 @@
+Can we do this project in Java? I suck at c++, and I'll be able to do WAY more coding if we do it in Java
+
+
+
+
+
+
 # BeyondCode-Sub.-Database
 Throw any general ideas you have in here, free format whatever, ya want. 
 
